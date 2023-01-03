@@ -1,2 +1,2 @@
-# aahanghode.github.io
+# aahanghode.github.io/reponsivewebsite
 My first responsive website.
